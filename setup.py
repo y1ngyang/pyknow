@@ -32,5 +32,5 @@ setup(name='pyknow',
       zip_safe=False,
       install_requires=[
         'frozendict==1.2',
-        'schema==0.6.7'
+        'schema==0.6.8'
       ])
